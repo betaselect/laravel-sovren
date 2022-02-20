@@ -1,12 +1,12 @@
 {
-    "name": "via-work/laravel-sovren",
+    "name": "inwave/laravel-sovren",
     "description": "Sovren package for Laravel.",
     "keywords": [
         "laravel",
         "sovren",
         "parsing"
     ],
-    "homepage": "https://github.com/via-work/laravel-sovren",
+    "homepage": "https://github.com/inwave/laravel-sovren",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -50,10 +50,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Via\\LaravelSovren\\SovrenServiceProvider"
+                "Inwave\\LaravelSovren\\SovrenServiceProvider"
             ],
             "aliases": {
-                "Sovren": "Via\\LaravelSovren\\SovrenFacade"
+                "Sovren": "Inwave\\LaravelSovren\\SovrenFacade"
             }
         }
     }
