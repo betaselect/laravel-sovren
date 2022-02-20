@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Via\\LaravelSovren\\": "src"
+            "Inwave\\LaravelSovren\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Via\\LaravelSovren\\Tests\\": "tests"
+            "Inwave\\LaravelSovren\\Tests\\": "tests"
         }
     },
     "scripts": {
