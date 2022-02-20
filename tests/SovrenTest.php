@@ -1,12 +1,12 @@
 <?php
 
-namespace Via\LaravelSovren\Tests;
+namespace Inwave\LaravelSovren\Tests;
 
 use GuzzleHttp\Client;
-use Via\LaravelSovren\Sovren;
+use Inwave\LaravelSovren\Sovren;
 use Orchestra\Testbench\TestCase;
-use Via\LaravelSovren\SovrenServiceProvider;
-use Via\LaravelSovren\Facade\Sovren as SovrenFacade;
+use Inwave\LaravelSovren\SovrenServiceProvider;
+use Inwave\LaravelSovren\Facade\Sovren as SovrenFacade;
 
 class SovrenTest extends TestCase
 {
