@@ -1,6 +1,6 @@
 <?php
 
-namespace Via\LaravelSovren\Facade;
+namespace Inwave\LaravelSovren\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
