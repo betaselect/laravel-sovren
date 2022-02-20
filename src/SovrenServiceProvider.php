@@ -1,6 +1,6 @@
 <?php
 
-namespace Via\LaravelSovren;
+namespace Inwave\LaravelSovren;
 
 use GuzzleHttp\Client;
 use Illuminate\Support\ServiceProvider;
